@@ -1,0 +1,6 @@
+Make: Apple
+Model: iPhone 15 Plus
+Main Camera: 48 MP, f/1.6, Sensor-shift OIS
+Sensor Size: 1/1.28"
+Pixel Size: 1.22 μm
+Features: Night Mode, Smart HDR 5, Photonic Engine

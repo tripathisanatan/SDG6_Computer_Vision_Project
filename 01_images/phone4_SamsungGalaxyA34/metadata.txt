@@ -1,0 +1,6 @@
+Make: samsung
+Model: Galaxy A34
+Main Camera: 48 MP, f/1.8,OIS
+Sensor Size:  1/2" 
+Pixel Size: 0.8μm
+Features: Optical Image Stabilization,AR Zone, Bixby Vision, Night mode, Panorama, Portrait, Pro mode, Hyperlapse, Slow Motion

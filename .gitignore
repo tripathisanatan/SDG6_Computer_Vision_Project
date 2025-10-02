@@ -1,0 +1,21 @@
+# Ignore Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+cvenv/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large generated folders
+04_noise_removal/
+05_yolo11_analysis/
+02_prnu_analysis/
+
+# OS files
+.DS_Store
+Thumbs.db

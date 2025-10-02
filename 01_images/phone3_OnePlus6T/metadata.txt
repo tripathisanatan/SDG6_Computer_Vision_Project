@@ -1,0 +1,6 @@
+Make: Oneplus
+Model: 6T
+Main Camera: 16 MP, f/1.7
+Sensor Size:  1/2.5
+Pixel Size: 1.22 μm
+Features: HDR, panorama, Night Mode, Portrait Mode, Pro Mode, Time-lapse, Panorama, Slow Motion, and Studio Lighting

@@ -1,0 +1,6 @@
+Make: Samsung
+Model: S21 Fe
+Main Camera: 12 MP, f/1.8, Wide OIS
+Sensor Size: 1/1.76"
+Pixel Size: 1.8 μm
+Features: Night Mode, Portrait Mode, Single Take, Dual Recording, and up to 30x Space Zoom

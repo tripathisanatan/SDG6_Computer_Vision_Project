@@ -1,0 +1,6 @@
+Make: Nothing phone
+Model: 2a
+Main Camera: 50 MP, f/1.9 OIS
+Sensor Size:  1/1.56
+Pixel Size: 1.0 μm
+Features:Night Mode,Portrait mode
